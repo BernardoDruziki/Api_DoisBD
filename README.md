@@ -2,9 +2,7 @@
 
   <h3 align="center">Projeto Web Api</h3>
 
-<!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">O Projeto</a>
