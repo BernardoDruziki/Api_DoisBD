@@ -24,11 +24,11 @@
 </details>
 
 
-## About The Project
+## Sobre o projeto
 Projeto feito para salvar dados em dois bancos de dados ao mesmo tempo.
 
 
-### Built With
+### O que foi usado
 
 O que usei para fazer o projeto!
 
@@ -37,10 +37,9 @@ O que usei para fazer o projeto!
 * Sql Server e PostgreSQL
 * Postman
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Começando
 
-### Prerequisites
+### O que você vai precisar
 
 - Primeiro, instale o C# e o .NET no seu dispositivo.
 
@@ -54,9 +53,9 @@ O que usei para fazer o projeto!
 
 
 
-### Installation
+### Instalação
 
-1. Clone the repo
+1. Clone o repositório.
 
    ```sh
    git clone (https://github.com/BernardoDruziki/Api_DoisBD.git)
