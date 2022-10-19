@@ -1,23 +1,4 @@
-<div id="top"></div>
 
-<br />
-  <h3 align="center">Projeto Web Api</h3>
-
-      <a href="#about-the-project">O Projeto</a>
-      <ul>
-        <li><a href="#built-with">O que foi usado</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Começando</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
 
 
 ## Sobre o projeto
