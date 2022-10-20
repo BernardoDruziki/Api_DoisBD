@@ -20,7 +20,7 @@ O que usei para fazer o projeto!
 
 - Primeiro, instale o C# e o .NET no seu dispositivo.
 
-- Segundo, instale os pacotes do EF.
+- Segundo, dentro do projeto, abra o terminal e instale os pacotes do EF.
 
 - Terceiro, instale os bancos de dado Sql e PostgreSQL no seu dispositivo.
 
