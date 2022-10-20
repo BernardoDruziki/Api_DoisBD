@@ -23,8 +23,6 @@ O que usei para fazer o projeto!
 - Segundo, dentro do projeto, abra o terminal e instale os pacotes do EF.
 
 - Terceiro, instale os bancos de dado Sql e PostgreSQL no seu dispositivo.
-   Sql - https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
-   PostgreSQL - https://www.postgresql.org/download/
 
 - Quarto, dentro do código, insira a string de conexão correta dos bancos de dados.
 
